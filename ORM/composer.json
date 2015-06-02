@@ -1,0 +1,11 @@
+{
+  "name": "doctrine blog test",
+  "type": "project test",
+  "require": {
+    "doctrine/orm": "*",
+    "doctrine/data-fixtures": "1.0.*"
+  },
+  "autoload": {
+    "psr-0": { "": "src/" }
+  }
+}
